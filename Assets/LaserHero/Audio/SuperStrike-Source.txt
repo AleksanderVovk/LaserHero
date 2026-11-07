@@ -1,0 +1,4 @@
+SuperStrike.ogg = Audio/laserLarge_004.ogg from Kenney Sci-Fi Sounds.
+Source: https://kenney.nl/assets/sci-fi-sounds
+Download: https://opengameart.org/sites/default/files/sci-fi_sounds.zip
+License: CC0. Original license preserved in Kenney-SuperStrike-License.txt.

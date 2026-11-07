@@ -1,0 +1,36 @@
+{
+    "ownedGyms": [],
+    "gymStrength": 273623282,
+    "firstBuildTutorialDone": true,
+    "victoryEconomyJson": "{\"balance\":6,\"revision\":14,\"unlocked\":[\"qa\",\"gym_industrial\",\"gym_neon\"]}",
+    "activityChestJson": "{\"progress\":67,\"pending\":56,\"revision\":11222}",
+    "gameSettingsJson": "{\"sensitivity\":348.0,\"soundVolume\":0.8079696297645569,\"musicVolume\":0.4414106607437134,\"revision\":639283861001287524}",
+    "laserHeroJson": "{\"version\":3,\"level\":741,\"equipped\":8,\"ownedLasers\":8455,\"ownedTargets\":0,\"ownedAuras\":8,\"aura\":3,\"rebirths\":6,\"moneyUpgrade\":5,\"speedUpgrade\":0,\"offlineUpgrade\":0,\"ownedDrones\":2,\"ownedBoosts\":0,\"drone\":-1,\"savedAt\":1794086014,\"cash\":0.0,\"pending\":0.0,\"xp\":0.0,\"cashExact\":\"51011688.644412\",\"pendingExact\":\"0\",\"xpExact\":\"4675667139.935969\",\"levelExact\":\"741\",\"iapTransactions\":[\"editor-test:8421e007-97b4-43ce-9d46-237d4e2992a3:laser_hero_mega_drone\",\"editor-test:a76a2d7e-2567-4321-abe1-13c3406d0772:laser_hero_energy_4\",\"editor-test:d9e0108c-87a0-435e-ba16-8ffb3ea5ec6b:laser_hero_energy_1\",\"editor-test:48867682-5a51-4c06-a488-44e612a91c19:laser_hero_energy_1\",\"editor-test:a9e32112-f67d-46e3-9d1c-22b352fa398e:laser_hero_energy_1\",\"editor-test:8a27e31a-9faf-4bd8-8e8f-355df3144558:laser_hero_energy_1\",\"editor-test:406d5e29-f158-454e-a581-1dccde3c7c63:laser_hero_aura_pink\",\"editor-test:2bbc1464-d5b0-4824-b6e8-18d1396fbe36:laser_hero_laser_tier_14_silver\",\"editor-test:18c5ba65-dab8-45b9-b117-00ea705e974a:laser_hero_laser_tier_9_gold\"]}",
+    "stringKeys": [],
+    "stringValues": [],
+    "floatKeys": [],
+    "floatValues": [],
+    "intKeys": [],
+    "intValues": [],
+    "intExample": 5,
+    "strExample": "Hello!",
+    "boolExample": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "idSave": 2295,
+    "playerData": {
+        "wallet": {
+            "money": 0,
+            "diamonds": 0,
+            "wins": 0,
+            "spins": 0
+        },
+        "boughtPickaxes": [
+            "pickaxe_01"
+        ],
+        "equippedPickaxeId": "pickaxe_01"
+    }
+}

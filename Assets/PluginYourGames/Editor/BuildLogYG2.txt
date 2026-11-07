@@ -1,0 +1,3 @@
+﻿Build path: F:/LaserHero/DesktopBuild_LaserHero/VovkCore.exe
+Build number: 9
+PluginYG version: 2.0092

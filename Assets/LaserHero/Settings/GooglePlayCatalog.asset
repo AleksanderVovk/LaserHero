@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 983dee76cf78dbf43a1586d8e4aa48e5, type: 3}
+  m_Name: GooglePlayCatalog
+  m_EditorClassIdentifier: Assembly-CSharp::LaserHero.LaserStoreCatalog
+  googlePlayPublicKey: 
+  items:
+  - kind: 0
+    index: 0
+    productId: laser_hero_laser_fire
+    previewPrice: 0.99
+    grantAmount: 
+  - kind: 0
+    index: 1
+    productId: laser_hero_laser_yellow
+    previewPrice: 1.99
+    grantAmount: 
+  - kind: 0
+    index: 2
+    productId: laser_hero_laser_cyan
+    previewPrice: 2.99
+    grantAmount: 
+  - kind: 0
+    index: 3
+    productId: laser_hero_laser_indigo
+    previewPrice: 4.99
+    grantAmount: 
+  - kind: 0
+    index: 4
+    productId: laser_hero_laser_green
+    previewPrice: 6.99
+    grantAmount: 
+  - kind: 0
+    index: 5
+    productId: laser_hero_laser_pink
+    previewPrice: 9.99
+    grantAmount: 
+  - kind: 1
+    index: 0
+    productId: laser_hero_aura_flame
+    previewPrice: 1.99
+    grantAmount: 
+  - kind: 1
+    index: 1
+    productId: laser_hero_aura_blue
+    previewPrice: 3.99
+    grantAmount: 
+  - kind: 1
+    index: 2
+    productId: laser_hero_aura_green
+    previewPrice: 5.99
+    grantAmount: 
+  - kind: 1
+    index: 3
+    productId: laser_hero_aura_pink
+    previewPrice: 7.99
+    grantAmount: 
+  - kind: 1
+    index: 4
+    productId: laser_hero_aura_void
+    previewPrice: 9.99
+    grantAmount: 
+  - kind: 2
+    index: 0
+    productId: laser_hero_drone
+    previewPrice: 2.99
+    grantAmount: 
+  - kind: 2
+    index: 1
+    productId: laser_hero_mega_drone
+    previewPrice: 7.99
+    grantAmount: 
+  - kind: 3
+    index: 6
+    productId: laser_hero_training_15x
+    previewPrice: 7.99
+    grantAmount: 
+  - kind: 3
+    index: 5
+    productId: laser_hero_training_10x
+    previewPrice: 5.99
+    grantAmount: 
+  - kind: 3
+    index: 7
+    productId: laser_hero_training_25x
+    previewPrice: 9.99
+    grantAmount: 
+  - kind: 3
+    index: 8
+    productId: laser_hero_training_100x
+    previewPrice: 19.99
+    grantAmount: 
+  - kind: 4
+    index: 0
+    productId: laser_hero_double_laser_size
+    previewPrice: 3.99
+    grantAmount: 
+  - kind: 4
+    index: 1
+    productId: laser_hero_double_hit_speed
+    previewPrice: 2.99
+    grantAmount: 
+  - kind: 5
+    index: 0
+    productId: laser_hero_money_1
+    previewPrice: 0.99
+    grantAmount: 839300000
+  - kind: 5
+    index: 1
+    productId: laser_hero_money_2
+    previewPrice: 2.99
+    grantAmount: 8300000000
+  - kind: 5
+    index: 2
+    productId: laser_hero_money_3
+    previewPrice: 7.99
+    grantAmount: 33500000000
+  - kind: 5
+    index: 3
+    productId: laser_hero_money_4
+    previewPrice: 19.99
+    grantAmount: 107400000000
+  - kind: 6
+    index: 0
+    productId: laser_hero_energy_1
+    previewPrice: 0.99
+    grantAmount: 5800000
+  - kind: 6
+    index: 1
+    productId: laser_hero_energy_2
+    previewPrice: 2.99
+    grantAmount: 58500000
+  - kind: 6
+    index: 2
+    productId: laser_hero_energy_3
+    previewPrice: 7.99
+    grantAmount: 585000000
+  - kind: 6
+    index: 3
+    productId: laser_hero_energy_4
+    previewPrice: 19.99
+    grantAmount: 5800000000
+  - kind: 0
+    index: 6
+    productId: laser_hero_laser_tier_7_white
+    previewPrice: 12.99
+    grantAmount: 
+  - kind: 0
+    index: 7
+    productId: laser_hero_laser_tier_8_orange
+    previewPrice: 14.99
+    grantAmount: 
+  - kind: 0
+    index: 8
+    productId: laser_hero_laser_tier_9_gold
+    previewPrice: 17.99
+    grantAmount: 
+  - kind: 0
+    index: 9
+    productId: laser_hero_laser_tier_10_cyan
+    previewPrice: 19.99
+    grantAmount: 
+  - kind: 0
+    index: 10
+    productId: laser_hero_laser_tier_11_indigo
+    previewPrice: 24.99
+    grantAmount: 
+  - kind: 0
+    index: 11
+    productId: laser_hero_laser_tier_12_emerald
+    previewPrice: 29.99
+    grantAmount: 
+  - kind: 0
+    index: 12
+    productId: laser_hero_laser_tier_13_crimson
+    previewPrice: 39.99
+    grantAmount: 
+  - kind: 0
+    index: 13
+    productId: laser_hero_laser_tier_14_silver
+    previewPrice: 49.99
+    grantAmount: 
